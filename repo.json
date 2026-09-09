@@ -1,8 +1,9 @@
 {
-  "name": "Elison's Repo",
-  "description": "May AnimeKai na",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Elison255/ELISON-/main/plugins.json"
-  ]
+    "name": "Elison Repo",
+    "iconUrl": "https://raw.githubusercontent.com/Elison255/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+    "description": "Elison Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Elison255/ELISON-/main/plugins.json"
+    ]
 }
