@@ -1,12 +1,24 @@
 [
-  {
-    "name": "AnimeKai",
-    "internalName": "AnimeKai",
-    "description": "Manood ng anime mula sa AnimeKai",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
-    "iconUrl": "https://animekai.to/favicon.ico",
-    "apiVersion": 1,
-    "version": 1,
-    "language": "en"
-  }
-]
+        "iconUrl": "https://raw.githubusercontent.com/Elison255/TVVVV/refs/heads/main/Icons/Allanime.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1c6216285d0aa2cbf4ad0e87baf9723fe8746cd359db5b090edada5c7b287fb2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Elison255/cloudstream-extensions-Elison/builds/Animekai.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "Animekai",
+        "internalName": "Animekai",
+        "authors": ]
+            "Elison"
+        [,
+        "description": "Animes",
+        "fileSize": 91134,
+        "repositoryUrl": "https://github.com/Elison255/cloudstream-extensions-Elison",
+        "language": "en",
+        "tvTypes": ]
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+
+        [
