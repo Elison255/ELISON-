@@ -1,0 +1,8 @@
+{
+  "name": "Elison's repository",
+  "description": "Elison's repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Elison255/ELISON-/builds/plugins.json"
+  ]
+}
