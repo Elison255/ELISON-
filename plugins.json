@@ -2,11 +2,12 @@
   {
     "name": "Sflix",
     "internalName": "Sflix",
-    "description": "Movies & TV Series from Sflix",
-    "url": "https://github.com/recloudstream/cloudstream-extensions/raw/refs/heads/builds/SflixProvider.cs3",
-    "iconUrl": "https://sflix.to/favicon.ico",
+    "description": "Movies",
+    "version": 1,
     "apiVersion": 1,
-    "version": 9,
+    "url": "https://github.com/recloudstream/cloudstream-extensions/raw/builds/SflixProvider.cs3",
+    "iconUrl": "https://sflix.to/favicon.ico",
     "language": "en"
   }
 ]
+
