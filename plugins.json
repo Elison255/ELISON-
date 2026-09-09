@@ -9,9 +9,9 @@
         "version": 15,
         "name": "Animekai",
         "internalName": "Animekai",
-        "authors": ]
+        "authors": [
             "Elison"
-        [,
+        ],
         "description": "Animes",
         "fileSize": 91134,
         "repositoryUrl": "https://github.com/Elison255/cloudstream-extensions-Elison",
