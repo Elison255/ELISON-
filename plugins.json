@@ -1,13 +1,12 @@
 [
   {
-    "name": "Sflix",
-    "internalName": "Sflix",
-    "description": "Movies",
-    "version": 1,
+    "name": "AnimeKai",
+    "internalName": "AnimeKai",
+    "description": "Manood ng anime mula sa AnimeKai",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
+    "iconUrl": "https://animekai.to/favicon.ico",
     "apiVersion": 1,
-    "url": "https://github.com/recloudstream/cloudstream-extensions/raw/builds/SflixProvider.cs3",
-    "iconUrl": "https://sflix.to/favicon.ico",
+    "version": 1,
     "language": "en"
   }
 ]
-
