@@ -16,9 +16,9 @@
         "fileSize": 91134,
         "repositoryUrl": "https://github.com/Elison255/cloudstream-extensions-Elison",
         "language": "en",
-        "tvTypes": ]
+        "tvTypes": [
             "Anime",
             "AnimeMovie",
             "OVA"
 
-        [
+        ]
