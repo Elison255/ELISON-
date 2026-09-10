@@ -1,17 +1,17 @@
 [
   {
-    "name": "SflixProvider",
-    "internalName": "SflixProvider",
-    "description": "Sflix — Movies & TV Series",
-    "iconUrl": "https://sflix.to/favicon.ico",
+    "name": "AnimeKai",
+    "internalName": "AnimeKai",
+    "description": "Manood ng Anime — AnimeKai",
+    "iconUrl": "https://animekai.to/favicon.ico",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
-    "fileSize": 45218,
+    "repositoryUrl": "https://github.com/Elison255/ELISON-",
+    "fileSize": 58420,
     "status": 1,
     "authors": ["Elison255"],
-    "version": 9,
+    "version": 3,
     "language": "en",
-    "tvTypes": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SflixProvider.cs3"
+    "tvTypes": ["TvSeries", "Movie"],
+    "url": "https://cdn.jsdelivr.net/gh/phisher98/cloudstream-extensions-phisher@builds/AnimeKai.cs3"
   }
 ]
