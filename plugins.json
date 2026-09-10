@@ -1,24 +1,14 @@
 [
-        "iconUrl": "https://raw.githubusercontent.com/Elison255/TVVVV/refs/heads/main/Icons/Allanime.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-1c6216285d0aa2cbf4ad0e87baf9723fe8746cd359db5b090edada5c7b287fb2"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Elison255/cloudstream-extensions-Elison/builds/Animekai.cs3",
-        "status": 1,
-        "version": 15,
-        "name": "Animekai",
-        "internalName": "Animekai",
-        "authors": [
-            "Elison"
-        ],
-        "description": "Animes",
-        "fileSize": 91134,
-        "repositoryUrl": "https://github.com/Elison255/cloudstream-extensions-Elison",
-        "language": "en",
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie",
-            "OVA"
-
-        ]
+  {
+    "name": "SflixProvider",
+    "internalName": "SflixProvider",
+    "description": "Sflix — Movies & TV Series, includes Dopebox, Solarmovie & more",
+    "iconUrl": "https://sflix.to/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+    "language": "en",
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 9,
+    "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SflixProvider.cs3"
+  }
+]
